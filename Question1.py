@@ -1,3 +1,6 @@
+#NEEMA OGAO
+#SCT211-0086/2022
+
 #Find the current date
 import datetime
 currentDate=datetime.datetime.now()
