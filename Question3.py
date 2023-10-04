@@ -1,3 +1,6 @@
+#NEEMA OGAO
+#SCT211-0086/2022
+
 print("Hello!")
 #Prompt the user to enter their mass and height
 UserMass=input("Please enter your mass in kilograms: ")
