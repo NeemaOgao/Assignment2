@@ -1,3 +1,6 @@
+#NEEMA OGAO
+#SCT211-0086/2022
+
 #Prompt to input the total bill, tip, and the number of people
 BillAmount=input("Please enter the total bill: $")
 TipInput=input("What percentage tip would you like to give?(10,12,or15): ")
