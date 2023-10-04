@@ -1,3 +1,6 @@
+#NEEMA OGAO
+#SCT211-0086/2022
+
 print("HELLO!")
 
 #Prompt the user to enter a year
